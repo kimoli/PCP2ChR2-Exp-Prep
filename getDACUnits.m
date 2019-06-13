@@ -5,7 +5,7 @@ if strcmpi(mouse, 'OK211') % rig 1
     lasernum = 03120119;
 elseif strcmpi(mouse, 'OK213') % rig 4
     fiberpct = 0.861;
-    lasernum = 12120077;
+    lasernum = 04180022;
 elseif strcmpi(mouse, 'OK214') % rig 3
     fiberpct = 0.86;
     lasernum = 04180023;
@@ -17,7 +17,7 @@ elseif strcmpi(mouse, 'OK216') % rig 1
     lasernum = 03120119;
 elseif strcmpi(mouse, 'OK217') % rig 4
     fiberpct = 0.878;
-    lasernum = 12120077;
+    lasernum = 04180022;
 elseif strcmpi(mouse, 'OK218') % rig 3
     fiberpct = 0.812;
     lasernum = 04180023;
